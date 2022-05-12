@@ -108,3 +108,8 @@ a:hover {
   justify-content: center;
   border-radius: .4rem;
 }
+
+.dsmovie-form-container {
+  padding: 4rem 0;
+  max-width: 48rem;
+}
